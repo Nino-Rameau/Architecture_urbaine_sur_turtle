@@ -34,4 +34,4 @@ Pour exécuter le projet, lancez le fichier `Architecture_urbaine_turtle.py` dan
 
 ## Licence
 
-Réaliser dans le cadre d'un projet scolaire.
+Réaliser dans le cadre d'un projet scolaire en mars 2023.
